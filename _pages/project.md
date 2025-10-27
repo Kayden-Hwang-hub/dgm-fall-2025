@@ -48,7 +48,9 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 **Due:** Friday, November 7, 2025, at 11:59 PM via Canvas.
 
 - **Purpose**:
-  This report ensures you’ve made **real progress** on your project. By now, you should have:
+  This report ensures you’ve made **real progress** on your project. Basically, your job in the midway report is to convince us that you will finish your project by the final due date. It's ok if your plans have changed from the proposal, but you should know that by now. It's also okay if your plans have failed or run into challenges, but you should have some indication of that by now.
+
+  By now, you should have:
 
   - Implemented an initial version of your model or experiments.
   - Run at least some tests—even if they didn’t work.
@@ -58,8 +60,8 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 - **Format & Length**:
 
   - **4 full pages**, excluding references. May **slightly spill onto a fifth page**, but be concise.
-  - Use the **ICML template** (single-column format).
-  - References must be on a separate page.
+  - Use the **ICML template** again.
+  - Put references must be on a separate page (**`\clearpage`** before).
   - **Figures & Tables**
     - Use **`figure`** for single-column figures, **`figure*`** for full-width figures. Figure sizes (including using **`\width=`** commands) will significantly change your report length, so size them properly.
     - Ensure figures are **numbered, referenced, and captioned** properly.
@@ -68,9 +70,10 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
       - Summary of the problem, approach, progress, key challenges, and next steps.
     - **Introduction (½ - 1 page)**
       - Problem statement and motivation.
-      - Role of **probabilistic graphical models (PGMs) or probabilistic AI**.
+      - Role of **deep learning** and/or **generative models** (PGMs).
     - **Related Work (~½ page)**
       - Summary of at least **four relevant papers** and how they relate to your work.
+      - Don't just give a list of related papers. Instead, synthesize the related works into a narrative of where the field is and why your project is interesting.
     - **Methods (~1 page)**
       - Implemented work so far (not just plans).
       - Model structure, key assumptions, modifications.
@@ -91,6 +94,19 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
 
 ---
 
+### **In-Class Presentation**
+
+**Date:** Monday, December 8 and Wednesday, December 10.
+
+- **Format**: Each team will deliver a **7-minute presentation** in class, summarizing their project. Presentations will include a brief introduction, methods overview, key findings, and future directions. This is the only portion of the project that will have individual (per-person) grades.
+
+- **Grading**:
+  - 30%: Clarity and engagement of presentation.
+  - 40%: Depth and quality of content.
+  - 30%: Use of visuals and adherence to time limits.
+  
+---
+
 ### **Final Report**
 
 **Due:** Friday, December 12, 2025, at 11:59 PM via Canvas.
@@ -107,15 +123,3 @@ Teams of 3-4 students are strongly encouraged. Once your team is formed, email t
   - 10%: Analysis and discussion.
   - 20%: Writing quality.
 
----
-
-### **In-Class Presentation**
-
-**Date:** Monday and Wednesday, December 8 and 10, 2025.
-
-- **Format**: Each team will deliver a **7-minute presentation** in class, summarizing their project. Presentations will include a brief introduction, methods overview, key findings, and future directions.
-
-- **Grading**:
-  - 30%: Clarity and engagement of presentation.
-  - 40%: Depth and quality of content.
-  - 30%: Use of visuals and adherence to time limits.
